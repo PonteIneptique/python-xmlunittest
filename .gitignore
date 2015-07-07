@@ -39,3 +39,7 @@ htmlcov
 .pydevproject
 .settings
 
+
+# Virtual envs
+/venv/
+/venv2/
