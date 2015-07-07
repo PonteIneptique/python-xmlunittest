@@ -2,6 +2,9 @@
 Python XML-Unittest
 ===================
 
+.. image:: https://travis-ci.org/PonteIneptique/python-xmlunittest.svg?branch=master
+    :target: https://travis-ci.org/PonteIneptique/python-xmlunittest
+
 Anyone uses XML, for RSS, for configuration files, for... well, we all use XML
 for our own reasons (folk says one can not simply uses XML, but still...).
 
